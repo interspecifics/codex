@@ -73,14 +73,18 @@ Codex Virtualis
 
     $ python latent_exp.py
     
+    
+    
 # 2. exploring the latent space with google collabs
 
 1. Copy the juper book to your own drive and follow the instrucctions 
 
+    https://github.com/interspecifics/codex/blob/main/stylegan_exploration.ipynb
+
 2. Upload the custom pkl networks 
 
-https://github.com/interspecifics/codex/tree/main/trainings512
+    https://github.com/interspecifics/codex/tree/main/trainings512
 
-Be sure to install the files in the same folder as your styleGAN2 explorer. 
+    Be sure to install the files in the same folder as your styleGAN2 explorer. 
 
 
