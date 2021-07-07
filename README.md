@@ -72,3 +72,10 @@ Codex Virtualis
 9. run 
 
     $ python latent_exp.py
+    
+# 2. exploring the latent space with google collabs
+
+1. Copy the juper book to your own drive and follow the instrucctions 
+2. Upload the custom pkl networks 
+
+
