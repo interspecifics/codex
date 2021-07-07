@@ -76,6 +76,11 @@ Codex Virtualis
 # 2. exploring the latent space with google collabs
 
 1. Copy the juper book to your own drive and follow the instrucctions 
+
 2. Upload the custom pkl networks 
+
+https://github.com/interspecifics/codex/tree/main/trainings512
+
+Be sure to install the files in the same folder as your styleGAN2 explorer. 
 
 
